@@ -1,4 +1,11 @@
-エンジニアを目指す学生として日々学習・開発に取り組んでいます。
+### エンジニアを目指す学生として日々学習・開発に取り組んでいます。
+
+### 🛠️ スキルセット
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,go,html,css,js,py,vscode,nodejs,cloudflare,kubernetes" />
+  </a>
+</p>
 
 ---
 
@@ -19,13 +26,6 @@
 ![](https://raw.githubusercontent.com/mattuu0/mattuu0/output/github-contribution-grid-snake.svg)
 
 ---
-
-### 🛠️ スキルセット
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,go,html,css,js,py,vscode,nodejs,cloudflare,kubernetes" />
-  </a>
-</p>
 
 #### プログラミング言語
 * **Go**
