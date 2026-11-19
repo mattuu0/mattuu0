@@ -14,7 +14,17 @@ launchs を開発中 (Kubernetes 上のデプロイ基盤)
 バックエンドとインフラをやっています。
 気になった OSS は自分のサーバーに入れて動かしてみる、というのをよくやります。
 
-[mattuu.com](https://mattuu.com) / [X](https://x.com/Mattuu55527453) / contact@mattuu.com
+<br>
+
+<h2 align="center">Portfolio</h2>
+<h1 align="center"><a href="https://mattuu.com">mattuu.com</a></h1>
+
+<h2 align="center">Contact</h2>
+<h3 align="center">Mail &nbsp;<a href="mailto:contact@mattuu.com">contact@mattuu.com</a></h3>
+<h3 align="center">X &nbsp;<a href="https://x.com/Mattuu55527453">@Mattuu55527453</a></h3>
+<h3 align="center">GitHub &nbsp;<a href="https://github.com/mattuu0">@mattuu0</a></h3>
+
+<br>
 
 ## いま作っているもの
 
@@ -62,3 +72,9 @@ DB に実際の状態を書き込むのは Watcher だけにして、状態が�
 | [Meecha](https://github.com/mattuu0/new_meecha) | 設定した範囲内にフレンドがいると通知が来る位置情報アプリ | Go, PostgreSQL, Redis, Kubernetes |
 | [Makeck](https://makeck.mattuu.com/app/) | 料理の手順書を作ってくれるアプリ | Go, MySQL, Docker |
 | [Rihlar](https://github.com/Rihlar) | 歩いた場所が自分の陣地になる陣取りゲーム | Go, MySQL, Kubernetes |
+
+## 連絡先
+
+- ポートフォリオ: [mattuu.com](https://mattuu.com)
+- メール: [contact@mattuu.com](mailto:contact@mattuu.com)
+- X: [@Mattuu55527453](https://x.com/Mattuu55527453)
